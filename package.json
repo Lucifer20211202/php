@@ -1,7 +1,7 @@
 {
   "name": "vercel-php80",
   "description": "Vercel PHP8 runtime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "./dist/index.js",
   "homepage": "https://github.com/Lucifer20211202/php",
